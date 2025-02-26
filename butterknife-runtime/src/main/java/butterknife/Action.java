@@ -1,6 +1,6 @@
 package butterknife;
 
-import android.support.annotation.NonNull;
+import androidx.annotation.NonNull;
 import android.support.annotation.UiThread;
 import android.view.View;
 
